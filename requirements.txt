@@ -1,9 +1,13 @@
+# This file may be used to create an environment using:
+# $ conda create --name <env> --file <this file>
+# platform: linux-64
 _libgcc_mutex=0.1=main
 _openmp_mutex=5.1=1_gnu
 _py-xgboost-mutex=2.0=cpu_0
 abseil-cpp=20211102.0=hd4dd3e8_0
 altair=5.0.1=py39h06a4308_0
 arrow-cpp=11.0.0=h374c478_1
+asgiref=3.7.2=pypi_0
 asttokens=2.0.5=pyhd3eb1b0_0
 attrs=22.1.0=py39h06a4308_0
 aws-c-common=0.6.8=h5eee18b_1
@@ -34,6 +38,8 @@ cyrus-sasl=2.1.28=h52b45da_1
 dbus=1.13.18=hb2f20db_0
 debugpy=1.6.7=py39h6a678d5_0
 decorator=5.1.1=pyhd3eb1b0_0
+django=4.2.4=pypi_0
+djangorestframework=3.14.0=pypi_0
 executing=0.8.3=pyhd3eb1b0_0
 expat=2.4.9=h6a678d5_0
 fontconfig=2.14.1=h4c34cd2_2
@@ -146,6 +152,7 @@ py-xgboost=1.7.3=py39h06a4308_0
 pyarrow=11.0.0=py39h992f0b0_0
 pycparser=2.21=pyhd3eb1b0_0
 pydeck=0.7.1=py39h06a4308_0
+pydotplus=2.0.2=pypi_0
 pygments=2.15.1=py39h06a4308_1
 pympler=0.9=py_0
 pyopenssl=23.2.0=py39h06a4308_0
@@ -175,6 +182,7 @@ six=1.16.0=pyhd3eb1b0_1
 smmap=4.0.0=pyhd3eb1b0_0
 snappy=1.1.9=h295c915_0
 sqlite=3.41.2=h5eee18b_0
+sqlparse=0.4.4=pypi_0
 stack_data=0.2.0=pyhd3eb1b0_0
 streamlit=1.24.1=py39h06a4308_0
 tbb=2021.8.0=hdb19cb5_0
